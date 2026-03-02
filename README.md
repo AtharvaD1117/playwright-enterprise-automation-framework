@@ -1,3 +1,7 @@
+![Playwright](https://img.shields.io/badge/Playwright-Framework-green)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)
+![Allure](https://img.shields.io/badge/Reporting-Allure-orange)
+![CI Ready](https://img.shields.io/badge/CI-Ready-success)
 # 🚀 Playwright Enterprise Automation Framework
 
 Enterprise-level UI Automation Framework built using Playwright + TypeScript with:
