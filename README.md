@@ -1,3 +1,4 @@
+![Playwright CI](https://github.com/AtharvaD1117/playwright-enterprise-automation-framework/actions/workflows/playwright.yml/badge.svg)
 ![Playwright](https://img.shields.io/badge/Playwright-Framework-green)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)
 ![Allure](https://img.shields.io/badge/Reporting-Allure-orange)
